@@ -1,0 +1,4 @@
+telegram:
+  botToken:
+  chatId:
+  baseUrl: "https://api.telegram.org/bot"
